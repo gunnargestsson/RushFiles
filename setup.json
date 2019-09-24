@@ -1,0 +1,8 @@
+﻿{
+    "branchId":  "d7135743-0ac9-402c-a641-b2c17a1081a8",
+    "dockerImage":  "mcr.microsoft.com/businesscentral/sandbox",
+    "dockerShared": true,
+    "navVersion":  "14.0.0.0",
+    "navSolution":  "W1",
+    "projectName":  "bcsandbox"
+}    
